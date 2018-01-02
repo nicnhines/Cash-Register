@@ -1,0 +1,52 @@
+body{
+    background-color:rgb(35, 34, 55);
+     color:white;
+  }
+
+
+  #display{
+    background-color:whitesmoke;
+    height:75px;
+    width:350px;
+    border-top-left-radius:6px;
+    border-top-right-radius:6px;
+    margin-right:auto;
+    margin-left:auto;
+    margin-top:20px;
+    padding-top:20px;
+    color:black;
+    padding-left:50px;
+    font-size:2.0em;
+  }
+
+  
+  #regBody{
+    background-color:grey;
+    width:350px;
+    padding-top:15px;
+    padding-bottom:10px;
+    border-bottom-left-radius:6px;
+    border-bottom-right-radius:6px;
+    margin-right:auto;
+    margin-left:auto;
+  }
+
+
+  .btn-danger{
+    width:105px;
+  }
+
+  
+  button{
+    width:45px;
+    height:45px;
+    margin:1.5px;
+    border:1px solid #333;
+    border-radius:6px;
+  }
+  
+  .digit{
+    font-size:25px;
+    background:#595958;
+    
+  }
